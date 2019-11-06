@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1573013517 source:c:\users\jashliao\desktop\cpp_machine_learning\cpp_linereg_test\linereg.cpp
+	"MatrixOpe.h"
+
+1573008455 c:\users\jashliao\desktop\cpp_machine_learning\cpp_linereg_test\matrixope.h
+	"Matrix.h"
+
+1573013449 c:\users\jashliao\desktop\cpp_machine_learning\cpp_linereg_test\matrix.h
+	"LoadData.h"
+
+1573008455 c:\users\jashliao\desktop\cpp_machine_learning\cpp_linereg_test\loaddata.h
+	<iostream>
+	<string>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<stack>
+	<map>
+	<math.h>
+	<stdlib.h>
+
+1573008455 source:c:\users\jashliao\desktop\cpp_machine_learning\cpp_linereg_test\loaddata.cpp
+	"MatrixOpe.h"
+
+1573009963 source:c:\users\jashliao\desktop\cpp_machine_learning\cpp_linereg_test\main.cpp
+	<iostream>
+	<cstdio>
+	"LineReg.h"
+
+1573013449 source:c:\users\jashliao\desktop\cpp_machine_learning\cpp_linereg_test\matrix.cpp
+	"Matrix.h"
+
+1573009244 source:c:\users\jashliao\desktop\cpp_machine_learning\cpp_linereg_test\matrixope.cpp
+	"Matrix.h"
+	<stdlib.h>
+
+1573008455 c:\users\jashliao\desktop\cpp_machine_learning\cpp_linereg_test\linereg.h
+

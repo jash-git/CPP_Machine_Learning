@@ -7,7 +7,7 @@ GITHUB:https://github.com/jash-git/CPP_Machine_Learning
 
 從線性到非線性模型
 
-1，線性回歸，嶺回歸，套索回歸，局部加權線性回歸
+1，線性回歸，嶺回歸，套索回歸，局部加權線性回歸 [CPP_LineReg_test 實測線性回歸專案]
 
 2，物流回歸，SOFTMAX回歸，最大熵模型
 
